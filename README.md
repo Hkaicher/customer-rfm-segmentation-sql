@@ -108,6 +108,3 @@ The 3-digit combo (e.g., `"555"`) is then matched against predefined segment rul
  
 **[Mohammad Hamdan Kaicher]**  
 [LinkedIn](https://linkedin.com/in/hamdankaicher)
-## 📄 License
- 
-MIT — free to use, adapt, and share.
